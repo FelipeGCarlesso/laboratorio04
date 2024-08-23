@@ -1,0 +1,14 @@
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\bin\Debug\net8.0\tde.exe
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\bin\Debug\net8.0\tde.deps.json
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\bin\Debug\net8.0\tde.runtimeconfig.json
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\bin\Debug\net8.0\tde.dll
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\bin\Debug\net8.0\tde.pdb
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\obj\Debug\net8.0\tde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\obj\Debug\net8.0\tde.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\obj\Debug\net8.0\tde.AssemblyInfo.cs
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\obj\Debug\net8.0\tde.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\obj\Debug\net8.0\tde.dll
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\obj\Debug\net8.0\refint\tde.dll
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\obj\Debug\net8.0\tde.pdb
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\obj\Debug\net8.0\tde.genruntimeconfig.cache
+C:\Users\felip\Desktop\2 semestre\laboratorio 4\tde\tde\obj\Debug\net8.0\ref\tde.dll
